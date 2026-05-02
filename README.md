@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Initializing+Matrix...;Access+Granted+✔;Chandra+Prakash;Cybersecurity+Analyst;Network+Security+%7C+Linux+%7C+DevOps" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ3YfZ5i8g/giphy.gif" width="700" />
-</p>
 
 ---
 
