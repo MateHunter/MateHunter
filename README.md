@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Initializing+Matrix...;Access+Granted+✔;Chandra+Prakash;Cybersecurity+Analyst;Network+Security+%7C+Linux+%7C+DevOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Chandra+Prakash;Cybersecurity+Analyst" />
 </p>
 
 
